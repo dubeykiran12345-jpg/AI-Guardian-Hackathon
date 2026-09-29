@@ -21,3 +21,6 @@ Python, Google Colab, Gradio, Pandas, PIL
 
 ## Hackathon Project
 Created as part of a hackathon project.
+## AI Guardian Dashboard
+
+![AI Guardian Dashboard](ai-guardian-dashboard.png)
